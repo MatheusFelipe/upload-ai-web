@@ -24,5 +24,6 @@ module.exports = {
   rules: {
     'prettier/prettier': 'error',
     'react/react-in-jsx-scope': 0,
+    'arrow-body-style': ['error', 'as-needed'],
   },
 };
